@@ -1,0 +1,151 @@
+customer_id,customer_name,email,city,state,country,signup_date
+1,Olivia Tan,customer001@example.com,Bedok,East,Singapore,2022-04-03
+2,Ethan Nair,customer002@example.com,Tampines,South,Singapore,2024-01-22
+3,Noah Teo,customer003@example.com,Queenstown,Central,Singapore,2021-03-03
+4,Noah Wong,customer004@example.com,Jurong East,North-East,Singapore,2024-05-17
+5,Aiden Ong,customer005@example.com,Jurong East,South,Singapore,2024-08-23
+6,Grace Chen,customer006@example.com,Jurong East,West,Singapore,2024-04-21
+7,Liam Yeo,customer007@example.com,Singapore,East,Singapore,2024-11-30
+8,Sofia Goh,customer008@example.com,Bedok,East,Singapore,2022-03-17
+9,Kai Lim,customer009@example.com,Tampines,West,Singapore,2021-07-18
+10,Chloe Low,customer010@example.com,Punggol,North-East,Singapore,2022-06-26
+11,Amelia Nair,customer011@example.com,Ang Mo Kio,North-East,Singapore,2021-09-13
+12,Ryan Lim,customer012@example.com,Bishan,North,Singapore,2024-07-11
+13,Hannah Ho,customer013@example.com,Punggol,North-East,Singapore,2022-01-29
+14,Noah Tan,customer014@example.com,Jurong East,North,Singapore,2021-06-13
+15,Ava Low,customer015@example.com,Tampines,West,Singapore,2022-07-24
+16,Jayden Chua,customer016@example.com,Punggol,East,Singapore,2023-01-29
+17,Chloe Wong,customer017@example.com,Bedok,South,Singapore,2024-10-31
+18,Noah Teo,customer018@example.com,Woodlands,North-East,Singapore,2025-02-02
+19,Ava Lee,customer019@example.com,Ang Mo Kio,West,Singapore,2022-07-07
+20,Grace Wong,customer020@example.com,Punggol,Central,Singapore,2022-04-15
+21,Amelia Yeo,customer021@example.com,Punggol,West,Singapore,2022-07-03
+22,Noah Wong,customer022@example.com,Clementi,South,Singapore,2022-10-07
+23,Lucas Chua,customer023@example.com,Ang Mo Kio,West,Singapore,2024-08-09
+24,Jayden Lee,customer024@example.com,Bedok,East,Singapore,2022-05-21
+25,Grace Ong,customer025@example.com,Bedok,South,Singapore,2024-04-12
+26,Sofia Ho,customer026@example.com,Clementi,West,Singapore,2023-01-12
+27,Ava Lee,customer027@example.com,Bishan,West,Singapore,2021-07-06
+28,Amelia Low,customer028@example.com,Tampines,East,Singapore,2024-07-09
+29,Mia Yeo,customer029@example.com,Queenstown,North-East,Singapore,2021-05-11
+30,Ryan Chen,customer030@example.com,Clementi,West,Singapore,2023-12-20
+31,Liam Ong,customer031@example.com,Singapore,South,Singapore,2025-01-16
+32,Olivia Chua,customer032@example.com,Bishan,North,Singapore,2024-08-05
+33,Kai Lim,customer033@example.com,Bedok,West,Singapore,2021-11-20
+34,Jayden Tan,customer034@example.com,Bedok,North-East,Singapore,2022-01-01
+35,Dylan Ho,customer035@example.com,Tampines,South,Singapore,2022-09-04
+36,Dylan Teo,customer036@example.com,Jurong East,East,Singapore,2023-02-05
+37,Mia Ong,customer037@example.com,Bishan,Central,Singapore,2024-05-11
+38,Kai Koh,customer038@example.com,Singapore,Central,Singapore,2023-01-14
+39,Isla Wong,customer039@example.com,Singapore,East,Singapore,2024-03-07
+40,Noah Lim,customer040@example.com,Ang Mo Kio,Central,Singapore,2023-12-27
+41,Ethan Lee,customer041@example.com,Ang Mo Kio,North-East,Singapore,2021-12-05
+42,Liam Ong,customer042@example.com,Clementi,West,Singapore,2022-03-10
+43,Grace Yeo,customer043@example.com,Jurong East,South,Singapore,2022-10-01
+44,Ryan Chua,customer044@example.com,Punggol,West,Singapore,2023-11-26
+45,Jayden Lim,customer045@example.com,Jurong East,East,Singapore,2021-05-12
+46,Kai Tan,customer046@example.com,Clementi,North-East,Singapore,2022-04-17
+47,Zach Wong,customer047@example.com,Singapore,Central,Singapore,2024-12-20
+48,Amelia Wong,customer048@example.com,Tampines,Central,Singapore,2022-11-08
+49,Noah Ong,customer049@example.com,Jurong East,North,Singapore,2024-10-02
+50,Emma Wong,customer050@example.com,Bishan,East,Singapore,2025-01-21
+51,Zach Teo,customer051@example.com,Ang Mo Kio,East,Singapore,2023-08-27
+52,Sofia Wong,customer052@example.com,Tampines,Central,Singapore,2024-09-11
+53,Sofia Goh,customer053@example.com,Queenstown,West,Singapore,2023-08-15
+54,Amelia Chua,customer054@example.com,Tampines,Central,Singapore,2023-04-05
+55,Kai Yeo,customer055@example.com,Tampines,East,Singapore,2022-01-28
+56,Lucas Ong,customer056@example.com,Ang Mo Kio,East,Singapore,2023-05-15
+57,Mia Ng,customer057@example.com,Ang Mo Kio,East,Singapore,2021-06-04
+58,Jayden Yeo,customer058@example.com,Bishan,Central,Singapore,2021-04-14
+59,Grace Low,customer059@example.com,Singapore,Central,Singapore,2022-04-30
+60,Mia Chen,customer060@example.com,Ang Mo Kio,West,Singapore,2022-03-14
+61,Ryan Ho,customer061@example.com,Singapore,East,Singapore,2023-02-16
+62,Aiden Chen,customer062@example.com,Bedok,West,Singapore,2022-08-08
+63,Sofia Nair,customer063@example.com,Bishan,South,Singapore,2025-01-11
+64,Emma Lee,customer064@example.com,Jurong East,North,Singapore,2022-03-22
+65,Amelia Teo,customer065@example.com,Bishan,Central,Singapore,2022-10-05
+66,Amelia Tan,customer066@example.com,Clementi,West,Singapore,2023-10-27
+67,Dylan Lee,customer067@example.com,Singapore,North-East,Singapore,2021-06-14
+68,Mia Lim,customer068@example.com,Clementi,Central,Singapore,2024-10-14
+69,Ava Chen,customer069@example.com,Tampines,North-East,Singapore,2022-05-20
+70,Zach Teo,customer070@example.com,Singapore,North-East,Singapore,2021-06-17
+71,Sofia Chua,customer071@example.com,Clementi,North-East,Singapore,2023-12-07
+72,Kai Ho,customer072@example.com,Bedok,East,Singapore,2024-10-03
+73,Kai Wong,customer073@example.com,Bedok,West,Singapore,2021-09-26
+74,Isla Koh,customer074@example.com,Punggol,Central,Singapore,2021-01-20
+75,Jayden Teo,customer075@example.com,Clementi,Central,Singapore,2021-05-31
+76,Grace Wong,customer076@example.com,Bishan,North,Singapore,2021-09-29
+77,Chloe Ho,customer077@example.com,Tampines,East,Singapore,2023-01-27
+78,Isla Lee,customer078@example.com,Ang Mo Kio,North-East,Singapore,2024-12-11
+79,Isla Teo,customer079@example.com,Bishan,Central,Singapore,2024-09-29
+80,Grace Ng,customer080@example.com,Tampines,East,Singapore,2022-06-26
+81,Olivia Ho,customer081@example.com,Tampines,South,Singapore,2024-02-08
+82,Ethan Ng,customer082@example.com,Bedok,North-East,Singapore,2022-03-08
+83,Kai Wong,customer083@example.com,Bedok,North-East,Singapore,2023-09-28
+84,Liam Ho,customer084@example.com,Singapore,Central,Singapore,2024-07-23
+85,Sofia Low,customer085@example.com,Bedok,Central,Singapore,2021-01-08
+86,Kai Yeo,customer086@example.com,Woodlands,South,Singapore,2022-06-21
+87,Mia Nair,customer087@example.com,Ang Mo Kio,North-East,Singapore,2024-12-16
+88,Sofia Ong,customer088@example.com,Singapore,Central,Singapore,2021-06-04
+89,Ethan Ong,customer089@example.com,Singapore,North,Singapore,2024-04-07
+90,Grace Lee,customer090@example.com,Queenstown,East,Singapore,2021-03-27
+91,Isla Goh,customer091@example.com,Singapore,North,Singapore,2022-03-07
+92,Ava Chua,customer092@example.com,Tampines,North,Singapore,2024-02-21
+93,Sofia Teo,customer093@example.com,Woodlands,East,Singapore,2021-11-29
+94,Mia Ho,customer094@example.com,Queenstown,Central,Singapore,2022-01-03
+95,Kai Yeo,customer095@example.com,Queenstown,South,Singapore,2022-05-24
+96,Liam Lee,customer096@example.com,Tampines,West,Singapore,2021-03-21
+97,Emma Wong,customer097@example.com,Jurong East,West,Singapore,2022-12-18
+98,Isla Low,customer098@example.com,Jurong East,East,Singapore,2021-02-18
+99,Lucas Chen,customer099@example.com,Punggol,North,Singapore,2021-05-23
+100,Liam Goh,customer100@example.com,Bishan,West,Singapore,2024-10-23
+101,Grace Goh,customer101@example.com,Singapore,Central,Singapore,2022-06-19
+102,Mia Teo,customer102@example.com,Bedok,Central,Singapore,2021-08-11
+103,Hannah Chen,customer103@example.com,Punggol,South,Singapore,2022-10-05
+104,Sofia Teo,customer104@example.com,Bishan,Central,Singapore,2023-02-28
+105,Zach Wong,customer105@example.com,Bedok,Central,Singapore,2024-12-22
+106,Sofia Tan,customer106@example.com,Bishan,North-East,Singapore,2024-11-07
+107,Lucas Goh,customer107@example.com,Queenstown,Central,Singapore,2024-09-22
+108,Kai Teo,customer108@example.com,Punggol,South,Singapore,2021-09-13
+109,Isla Ong,customer109@example.com,Bedok,South,Singapore,2023-04-17
+110,Kai Chen,customer110@example.com,Bedok,North-East,Singapore,2021-09-18
+111,Lucas Chen,customer111@example.com,Queenstown,South,Singapore,2021-12-23
+112,Hannah Teo,customer112@example.com,Bedok,West,Singapore,2024-01-28
+113,Aiden Ng,customer113@example.com,Bedok,East,Singapore,2023-05-31
+114,Zach Teo,customer114@example.com,Punggol,West,Singapore,2023-06-24
+115,Jayden Chua,customer115@example.com,Jurong East,North-East,Singapore,2023-08-28
+116,Mia Chua,customer116@example.com,Tampines,North,Singapore,2023-11-22
+117,Hannah Goh,customer117@example.com,Tampines,East,Singapore,2024-10-09
+118,Isla Wong,customer118@example.com,Jurong East,East,Singapore,2021-02-20
+119,Amelia Wong,customer119@example.com,Ang Mo Kio,North-East,Singapore,2021-05-30
+120,Jayden Chen,customer120@example.com,Clementi,East,Singapore,2025-01-11
+121,Ryan Koh,customer121@example.com,Queenstown,East,Singapore,2021-10-30
+122,Aiden Ho,customer122@example.com,Tampines,West,Singapore,2022-03-25
+123,Mia Yeo,customer123@example.com,Bishan,West,Singapore,2021-04-13
+124,Grace Wong,customer124@example.com,Tampines,West,Singapore,2021-10-01
+125,Jayden Chua,customer125@example.com,Bishan,North-East,Singapore,2024-05-04
+126,Kai Yeo,customer126@example.com,Ang Mo Kio,North-East,Singapore,2025-01-13
+127,Dylan Chen,customer127@example.com,Bishan,West,Singapore,2021-11-22
+128,Emma Koh,customer128@example.com,Bedok,East,Singapore,2024-07-29
+129,Liam Yeo,customer129@example.com,Bishan,West,Singapore,2024-07-07
+130,Ava Ng,customer130@example.com,Ang Mo Kio,Central,Singapore,2025-01-01
+131,Isla Wong,customer131@example.com,Bedok,North,Singapore,2022-10-17
+132,Grace Lim,customer132@example.com,Woodlands,East,Singapore,2022-04-19
+133,Ryan Nair,customer133@example.com,Woodlands,South,Singapore,2022-03-15
+134,Noah Chen,customer134@example.com,Queenstown,North,Singapore,2024-01-17
+135,Jayden Chen,customer135@example.com,Singapore,East,Singapore,2023-05-11
+136,Ryan Ho,customer136@example.com,Clementi,South,Singapore,2021-02-10
+137,Zach Chen,customer137@example.com,Ang Mo Kio,Central,Singapore,2022-12-22
+138,Isla Yeo,customer138@example.com,Queenstown,West,Singapore,2024-01-08
+139,Grace Yeo,customer139@example.com,Clementi,East,Singapore,2023-09-27
+140,Ava Ng,customer140@example.com,Queenstown,West,Singapore,2021-03-01
+141,Ryan Goh,customer141@example.com,Queenstown,South,Singapore,2021-12-05
+142,Jayden Ho,customer142@example.com,Woodlands,North-East,Singapore,2023-12-30
+143,Aiden Ho,customer143@example.com,Queenstown,North-East,Singapore,2024-03-01
+144,Aiden Lim,customer144@example.com,Queenstown,East,Singapore,2023-08-04
+145,Mia Tan,customer145@example.com,Bedok,West,Singapore,2022-11-02
+146,Lucas Koh,customer146@example.com,Punggol,North,Singapore,2023-02-16
+147,Liam Yeo,customer147@example.com,Queenstown,North,Singapore,2021-06-17
+148,Emma Tan,customer148@example.com,Bishan,Central,Singapore,2022-12-18
+149,Ava Chua,customer149@example.com,Tampines,South,Singapore,2021-03-24
+150,Aiden Wong,customer150@example.com,Jurong East,Central,Singapore,2024-06-26

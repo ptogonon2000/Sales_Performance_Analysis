@@ -1,0 +1,16 @@
+product_id,product_name,category,unit_cost,list_price
+1,Wireless Mouse,Electronics,12.0,25.0
+2,Mechanical Keyboard,Electronics,38.0,79.0
+3,USB-C Hub,Electronics,22.0,49.0
+4,27-inch Monitor,Electronics,145.0,229.0
+5,Office Chair,Furniture,85.0,159.0
+6,Standing Desk,Furniture,210.0,349.0
+7,Desk Lamp,Furniture,18.0,39.0
+8,Notebook Pack,Stationery,3.5,8.0
+9,Gel Pen Set,Stationery,2.8,6.5
+10,Printer Paper,Stationery,4.2,9.0
+11,Water Bottle,Lifestyle,6.0,15.0
+12,Backpack,Lifestyle,24.0,55.0
+13,Coffee Tumbler,Lifestyle,9.0,22.0
+14,Webcam,Electronics,29.0,65.0
+15,Headset,Electronics,31.0,69.0
