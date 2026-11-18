@@ -2,7 +2,7 @@
 
 SELECT
     category,
-    AVG(list_price) AS avg_price
+    ROUND(AVG(list_price)::NUMERIC, 2) AS avg_price
 FROM
     products
 GROUP BY

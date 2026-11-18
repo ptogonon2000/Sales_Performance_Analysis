@@ -1,17 +1,5 @@
 # Sales Performance Analysis — SQL Challenge Questions
 
-## Business definitions
-
-- Recognized sales include only `Delivered` and `Shipped` orders.
-- Exclude `Processing` and `Cancelled` orders from revenue and profit metrics unless explicitly analyzing order status.
-- Line net sales = `quantity * unit_price * (1 - discount)`.
-- Line cost = `quantity * products.unit_cost`.
-- Gross profit = line net sales minus line cost.
-- Gross margin % = gross profit / net sales \* 100. Use `NULLIF` for safe division.
-- `unit_price` is the actual pre-discount selling price. `discount` is a decimal fraction (0.10 = 10%).
-
-## Beginner — filtering and aggregation
-
 1. How many customers are in the database?
 2. How many orders were placed in each year?
 3. What are the five most frequently ordered products by total quantity?

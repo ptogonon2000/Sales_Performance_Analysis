@@ -6,4 +6,6 @@ SELECT
 FROM
     customers
 GROUP BY
-    city
+    city 
+ORDER BY
+    total_customer DESC

@@ -5,7 +5,6 @@ SELECT
     EXTRACT(YEAR FROM order_date) AS year
 FROM
     orders
-WHERE order_status = 'Delivered'
 GROUP BY
     year
 ORDER BY
